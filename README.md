@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter and Django Projects<br>👯 I’m looking to collaborate on Insightful Projects<br>🤝 I’m looking for Flutter Developer  Roles<br>🌱 I’m currently learning Different State management techniques  in Flutter<br>
+🔭 I’m currently working on Flutter and Django Projects<br>👯 I’m looking to collaborate on Insightful Projects<br>🤝 I’m looking for Flutter Developer  Roles<br>🌱 I’m currently exploring Different State management techniques  in Flutter<br>
 
 
 ## 🌐 Socials:
