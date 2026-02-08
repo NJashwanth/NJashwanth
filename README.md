@@ -48,5 +48,5 @@ I’m a software engineer with **6+ years of experience** building scalable, hig
 - VS Code, Xcode, Android Studio
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=NJashwanth)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NJashwanth&theme=onedark&border_radius=10&card_width=900&card_height=220)](https://git.io/streak-stats)
 
