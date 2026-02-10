@@ -13,7 +13,7 @@ I’m a software engineer with over six years of experience in building scalable
 - 🧠 Strong in **MVVM, Clean Architecture, State Management**
 - ☁️ Experience with **Firebase, REST APIs, Cloud Services**
 - 🔁 Passionate about performance, clean code, and DX
-- 🏏 When not coding, you’ll probably find me playing cricket or at the gym
+- 🏏 When not coding, you’ll probably find me playing cricket
 
 ---
 
@@ -42,7 +42,7 @@ I’m a software engineer with over six years of experience in building scalable
 
 **DevOps & Tools**
 - Docker
-- Git & GitHub
+- Git, bitbucket & GitHub
 - CI/CD
 - Google Cloud / Firebase
 - VS Code, Xcode, Android Studio
