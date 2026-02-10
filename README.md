@@ -2,7 +2,7 @@
 
 🚀 Software Engineer | 📱 Flutter & Mobile Specialist | 🌐 Full-Stack Developer
 
-I’m a software engineer with **6+ years of experience** building scalable, high-performance mobile and full-stack applications. I love crafting clean architectures, smooth user experiences, and reliable systems that scale.
+I’m a software engineer with over six years of experience in building scalable, high-performance mobile and full-stack applications. My passion lies in designing clean architectures, creating seamless user experiences, and developing reliable systems that can scale effectively.
 
 ---
 
