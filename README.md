@@ -49,5 +49,5 @@ I’m a software engineer with over six years of experience in building scalable
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=NJashwanth&theme=onedark&border_radius=10&card_width=1000&card_height=220)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NJashwanth&theme=onedark-duo&card_width=1000)](https://git.io/streak-stats)
 
