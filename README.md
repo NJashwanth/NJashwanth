@@ -1,4 +1,4 @@
-# Hello 👋, I'm Jashwanth Neela
+# Hi 👋, I'm Jashwanth Neela
 
 🚀 Software Engineer | 📱 Flutter & Mobile Specialist | 🌐 Full-Stack Developer
 
