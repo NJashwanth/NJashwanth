@@ -47,7 +47,3 @@ I’m a software engineer with over six years of experience in building scalable
 - Google Cloud / Firebase
 - VS Code, Xcode, Android Studio
 
-
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=NJashwanth&theme=onedark-duo&card_width=1000)](https://git.io/streak-stats)
-
