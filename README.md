@@ -46,4 +46,5 @@ I’m a software engineer with over six years of experience in building scalable
 - CI/CD
 - Google Cloud / Firebase
 - VS Code, Xcode, Android Studio
+- Codemagic
 
