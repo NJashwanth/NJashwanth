@@ -39,12 +39,12 @@
 
 | Project | Highlights | Tech |
 |---|---|---|
-| [urban_match](https://github.com/NJashwanth/urban_match) | Real-world Flutter application architecture and feature implementation | Dart, Flutter |
 | [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | UI motion and reusable animation patterns in Flutter | Dart, Flutter |
 | [GridX](https://github.com/NJashwanth/GridX) | Modern Flutter codebase with recent active updates | Dart, Flutter |
 | [very_good_coffee_app](https://github.com/NJashwanth/very_good_coffee_app) | Product-style app structure and scalable UI composition | Dart, Flutter |
 | [python_file_manipulation_task](https://github.com/NJashwanth/python_file_manipulation_task) | Practical scripting and automation utility work | Python |
 | [CodeTest](https://github.com/NJashwanth/CodeTest) | Native mobile coding exercises and implementation patterns | Kotlin |
+| [urban_match](https://github.com/NJashwanth/urban_match) | Real-world Flutter application architecture and feature implementation | Dart, Flutter |
 
 ---
 
@@ -64,8 +64,8 @@
 </p>
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NJashwanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-	<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&theme=tokyonight&hide_border=true" />
+	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NJashwanth&theme=tokyonight" alt="GitHub stats" />
+	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NJashwanth&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
