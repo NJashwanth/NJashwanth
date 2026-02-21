@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jashwanth Neela 👋</h1>
-<h3 align="center">Open-Source Focused Software Engineer • Flutter & Full-Stack Specialist • 5+ Years</h3>
+<h3 align="center">Freelance Software Engineer • Flutter & Full-Stack Specialist • 5+ Years</h3>
 
 <p align="center">
 	<a href="https://github.com/NJashwanth">
@@ -15,15 +15,27 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&center=true&vCenter=true&width=760&lines=Building+in+public+through+open+source;Creating+reusable+Flutter+components+and+patterns;Shipping+developer-friendly+tools+and+utilities;Performance%2C+DX%2C+and+clean+architecture+always" alt="Typing Intro" />
 </p>
 
+<p align="center"><b>Available for freelance projects: Flutter apps, MVP builds, API integrations, and app performance optimization.</b></p>
+
 ---
 
-## 🌍 Open Source Snapshot
+## 💼 Freelance Snapshot
 
-- 🧠 Engineer with **5+ years** building and shipping mobile + full-stack products
-- 📱 Building reusable Flutter-first solutions for **Android, iOS, and Web**
-- 🏗️ Contributor mindset: **Clean Architecture, MVVM, scalable app foundations**
-- 🧩 I enjoy turning production learnings into **shareable, practical repositories**
-- ⚡ Prioritizing **performance, maintainability, and excellent developer experience**
+- 🧠 Engineer with **5+ years** delivering mobile and full-stack products end-to-end
+- 📱 Specialized in **Flutter** apps for Android, iOS, and Web
+- 🏗️ Strong architecture foundation: **Clean Architecture, MVVM, scalable state management**
+- 🔌 Experienced in **REST APIs, Firebase, backend integration, and production releases**
+- ⚡ Focused on outcomes clients care about: **speed, reliability, maintainability, and time-to-market**
+
+---
+
+## 🛠️ Freelance Services
+
+- Flutter app development (new app, feature development, refactoring)
+- Full-stack MVP development (mobile + backend + database)
+- Firebase/REST API integration and backend connectivity
+- Performance tuning, code quality improvements, and architecture cleanup
+- Bug fixing, maintenance, and long-term product support
 
 ---
 
@@ -39,21 +51,21 @@
 
 | Project | Highlights | Tech |
 |---|---|---|
-| [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | UI motion and reusable animation patterns in Flutter | Dart, Flutter |
-| [GridX](https://github.com/NJashwanth/GridX) | Modern Flutter codebase with recent active updates | Dart, Flutter |
-| [very_good_coffee_app](https://github.com/NJashwanth/very_good_coffee_app) | Product-style app structure and scalable UI composition | Dart, Flutter |
-| [python_file_manipulation_task](https://github.com/NJashwanth/python_file_manipulation_task) | Practical scripting and automation utility work | Python |
-| [CodeTest](https://github.com/NJashwanth/CodeTest) | Native mobile coding exercises and implementation patterns | Kotlin |
-| [urban_match](https://github.com/NJashwanth/urban_match) | Real-world Flutter application architecture and feature implementation | Dart, Flutter |
+| [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter |
+| [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter |
+| [very_good_coffee_app](https://github.com/NJashwanth/very_good_coffee_app) | Scalable product-style app composition suitable for real-world apps | Dart, Flutter |
+| [python_file_manipulation_task](https://github.com/NJashwanth/python_file_manipulation_task) | Automation-focused scripting for productivity and workflow support | Python |
+| [CodeTest](https://github.com/NJashwanth/CodeTest) | Native mobile implementation exercises with clean coding patterns | Kotlin |
+| [urban_match](https://github.com/NJashwanth/urban_match) | End-to-end Flutter app architecture and feature delivery workflow | Dart, Flutter |
 
 ---
 
-## 🤝 Open Source Goals (2026)
+## 🤝 Why Clients Work With Me
 
-- Publish more **reusable Flutter packages/widgets** that solve real product problems
-- Share clear examples of **architecture, state management, and testing patterns**
-- Improve repository quality with better docs, issue templates, and contributor-friendly structure
-- Collaborate more through discussions, reviews, and community-driven iterations
+- Clear communication and consistent delivery updates
+- Clean, maintainable code that teams can scale
+- Practical approach focused on shipping, not over-engineering
+- Comfortable working independently or alongside existing teams
 
 ---
 
@@ -74,11 +86,11 @@
 
 ---
 
-## 🎯 Current Focus
+## ✅ Currently Working On
 
-- Building advanced Flutter UI/animation systems with production-ready patterns
-- Expanding open-source repos with practical examples that teams can directly adapt
-- Strengthening full-stack depth to support end-to-end product delivery
+- Flutter app development and feature implementation
+- MVP delivery for product ideas
+- Performance improvements and bug fixes in existing apps
 
 ---
 
@@ -87,5 +99,7 @@
 - LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
 - GitHub: [@NJashwanth](https://github.com/NJashwanth)
 
-<p align="center"><b>"Build in public. Share what works. Improve together."</b></p>
+<p align="center"><b>📩 Open to freelance opportunities. Let’s build your next app.</b></p>
+
+<p align="center"><b>"I help turn product ideas into scalable, production-ready software."</b></p>
 
