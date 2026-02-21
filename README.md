@@ -29,7 +29,7 @@
 
 ## 🧰 Core Stack
 
-<p>
+<p align="center">
 	<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,ts,python,react,nextjs,nodejs,spring,firebase,mongodb,mysql,postgres,docker,git,github,vscode,androidstudio" />
 </p>
 
@@ -60,12 +60,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=NJashwanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&theme=tokyonight&hide_border=true" />
+	<img src="https://img.shields.io/badge/Consistency%20Streak%20(1%20Grace%20Day)-52%20days-22c55e?style=for-the-badge" alt="Adjusted consistency streak" />
 </p>
 
 <p align="center">
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NJashwanth&theme=tokyonight&hide_border=true" />
+	<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NJashwanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+	<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NJashwanth&theme=tokyonight&hide_border=true&card_width=1000" />
 </p>
 
 ---
