@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+<h2>📊 <span style="color:#0e75b6;">GitHub Analytics</span></h2>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Consistency%20Streak%20(1%20Grace%20Day)-52%20days-22c55e?style=for-the-badge" alt="Adjusted consistency streak" />
