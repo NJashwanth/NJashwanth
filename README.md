@@ -51,7 +51,7 @@
 
 | Project | Highlights | Tech | Lifecycle Log |
 |---|---|---|---|
-| [lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight lifecycle/event logging utility to improve observability and debugging | Python | 🚀 Active • Core utility • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/lifecycle_logger?label=Last%20Updated&style=flat) |
+| [lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight lifecycle/event logging utility to improve observability and debugging | Flutter, Dart | 🚀 Active • Core utility • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/lifecycle_logger?label=Last%20Updated&style=flat) |
 | [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter | 🚀 Active • Maintained • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/flutter_animated_widgets?label=Last%20Updated&style=flat) |
 | [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter | 🧪 Iterating • Feature expansion • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/GridX?label=Last%20Updated&style=flat) |
 | [very_good_coffee_app](https://github.com/NJashwanth/very_good_coffee_app) | Scalable product-style app composition suitable for real-world apps | Dart, Flutter | ✅ Stable • Maintenance mode • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/very_good_coffee_app?label=Last%20Updated&style=flat) |
