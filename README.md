@@ -98,22 +98,6 @@
 
 ---
 
-## ⚙️ settings.json
-
-Workspace VS Code settings from [.vscode/settings.json](.vscode/settings.json):
-
-```json
-{
-	"chat.tools.terminal.autoApprove": {
-		"git add": true,
-		"git commit": true,
-		"git push": true
-	}
-}
-```
-
----
-
 ## 🤝 Let’s Connect
 
 - Email: [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com)
