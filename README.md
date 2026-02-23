@@ -51,6 +51,7 @@
 
 | Project | Highlights | Tech | Lifecycle Log |
 |---|---|---|---|
+| [lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight lifecycle/event logging utility to improve observability and debugging | Python | 🚀 Active • Core utility • Last update: 2026-02 |
 | [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter | 🚀 Active • Maintained • Last update: 2026-02 |
 | [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter | 🧪 Iterating • Feature expansion • Last update: 2026-02 |
 | [very_good_coffee_app](https://github.com/NJashwanth/very_good_coffee_app) | Scalable product-style app composition suitable for real-world apps | Dart, Flutter | ✅ Stable • Maintenance mode • Last update: 2026-02 |
