@@ -74,12 +74,12 @@
 </p>
 
 <p align="center">
-	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NJashwanth&theme=tokyonight" alt="GitHub stats" />
-	<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NJashwanth&theme=tokyonight" alt="Top languages" />
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NJashwanth&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+	<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJashwanth&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true" alt="Top languages" />
 </p>
 
 <p align="center">
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NJashwanth&theme=tokyonight&hide_border=true&card_width=1000" />
+	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NJashwanth&theme=tokyonight&hide_border=true&card_width=1000&include_private=true" />
 </p>
 
 ---
