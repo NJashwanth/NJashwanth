@@ -49,14 +49,14 @@
 
 ## 🌟 Featured Projects
 
-| Project | Highlights | Tech |
-|---|---|---|
-| [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter |
-| [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter |
-| [very_good_coffee_app](https://github.com/NJashwanth/very_good_coffee_app) | Scalable product-style app composition suitable for real-world apps | Dart, Flutter |
-| [python_file_manipulation_task](https://github.com/NJashwanth/python_file_manipulation_task) | Automation-focused scripting for productivity and workflow support | Python |
-| [CodeTest](https://github.com/NJashwanth/CodeTest) | Native mobile implementation exercises with clean coding patterns | Kotlin |
-| [urban_match](https://github.com/NJashwanth/urban_match) | End-to-end Flutter app architecture and feature delivery workflow | Dart, Flutter |
+| Project | Highlights | Tech | Lifecycle Log |
+|---|---|---|---|
+| [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter | 🚀 Active • Maintained • Last update: 2026-02 |
+| [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter | 🧪 Iterating • Feature expansion • Last update: 2026-02 |
+| [very_good_coffee_app](https://github.com/NJashwanth/very_good_coffee_app) | Scalable product-style app composition suitable for real-world apps | Dart, Flutter | ✅ Stable • Maintenance mode • Last update: 2026-02 |
+| [python_file_manipulation_task](https://github.com/NJashwanth/python_file_manipulation_task) | Automation-focused scripting for productivity and workflow support | Python | 🛠️ Active • Utility enhancements • Last update: 2026-02 |
+| [CodeTest](https://github.com/NJashwanth/CodeTest) | Native mobile implementation exercises with clean coding patterns | Kotlin | 📦 Complete • Archived candidate • Last update: 2026-02 |
+| [urban_match](https://github.com/NJashwanth/urban_match) | End-to-end Flutter app architecture and feature delivery workflow | Dart, Flutter | 🚀 Active • Roadmap in progress • Last update: 2026-02 |
 
 ---
 
