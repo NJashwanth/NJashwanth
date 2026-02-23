@@ -76,10 +76,10 @@
 <table align="center">
 	<tr>
 		<td>
-			<img width="430" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+	      <img width="500" height="240" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 		</td>
 		<td>
-			<img width="430" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&theme=tokyonight&layout=compact&count_private=true&langs_count=8" alt="Top languages" />
+	      <img width="500" height="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&theme=tokyonight&layout=compact&count_private=true&langs_count=8" alt="Top languages" />
 		</td>
 	</tr>
 </table>
