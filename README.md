@@ -73,16 +73,13 @@
 	<img src="https://img.shields.io/badge/Consistency%20Streak%20(1%20Grace%20Day)-52%20days-22c55e?style=for-the-badge" alt="Adjusted consistency streak" />
 </p>
 
-<table align="center">
-	<tr>
-		<td>
-	      <img width="500" height="240" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-		</td>
-		<td>
-	      <img width="500" height="240" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&theme=tokyonight&layout=compact&count_private=true&langs_count=8" alt="Top languages" />
-		</td>
-	</tr>
-</table>
+<p align="center">
+	<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+	<img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&theme=tokyonight&layout=compact&count_private=true&langs_count=8" alt="Top languages" />
+</p>
 
 <p align="center">
 	<img width="92%" src="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=true" alt="GitHub streak" />
