@@ -84,7 +84,7 @@
 </table>
 
 <p align="center">
-	<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NJashwanth&theme=tokyonight&utcOffset=5.5" alt="GitHub productive time" />
+	<img width="70%" src="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
