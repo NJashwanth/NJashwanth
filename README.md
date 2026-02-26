@@ -51,9 +51,9 @@
 
 | Project | Highlights | Tech | Lifecycle Log |
 |---|---|---|---|
-| [lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight lifecycle/event logging utility to improve observability and debugging | Flutter, Dart | 🚀 Active • Core utility • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/lifecycle_logger?label=Last%20Updated&style=flat) |
-| [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter | 🚀 Active • Maintained • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/flutter_animated_widgets?label=Last%20Updated&style=flat) |
-| [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter | 🧪 Iterating • Feature expansion • ![Last Updated](https://img.shields.io/github/last-commit/NJashwanth/GridX?label=Last%20Updated&style=flat) |
+| [lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight lifecycle/event logging utility to improve observability and debugging | Flutter, Dart | 🚀 Active • Core utility • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Flifecycle_logger%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
+| [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter | 🚀 Active • Maintained • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Fflutter_animated_widgets%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
+| [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter | 🧪 Iterating • Feature expansion • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2FGridX%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
 
 ---
 
