@@ -84,7 +84,7 @@
 </table>
 
 <p align="center">
-	<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NJashwanth&theme=tokyonight" alt="GitHub contribution summary" />
+	<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NJashwanth&theme=tokyonight&utcOffset=5.5" alt="GitHub productive time" />
 </p>
 
 ---
