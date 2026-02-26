@@ -84,7 +84,7 @@
 </table>
 
 <p align="center">
-	<img width="70%" src="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+	<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NJashwanth&theme=tokyonight" alt="GitHub contribution summary" />
 </p>
 
 ---
