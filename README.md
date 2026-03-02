@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jashwanth Neela 👋</h1>
-<h3 align="center">Freelance Software Engineer • Flutter & Full-Stack Specialist • 5+ Years</h3>
+<h3 align="center">Freelance Software Engineer • Sr.Flutter & Full-Stack Specialist • 5+ Years</h3>
 
 <p align="center">
 	<a href="https://github.com/NJashwanth">
