@@ -15,27 +15,25 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&center=true&vCenter=true&width=760&lines=Building+in+public+through+open+source;Creating+reusable+Flutter+components+and+patterns;Shipping+developer-friendly+tools+and+utilities;Performance%2C+DX%2C+and+clean+architecture+always" alt="Typing Intro" />
 </p>
 
-<p align="center"><b>Available for freelance projects: Flutter apps, MVP builds, API integrations, and app performance optimization.</b></p>
+<p align="center"><b>Available for freelance projects: Flutter apps, MVP builds, API integrations, and performance optimization.</b></p>
 
 ---
 
 ## 💼 Freelance Snapshot
 
-- 🧠 Engineer with **5+ years** delivering mobile and full-stack products end-to-end
-- 📱 Specialized in **Flutter** apps for Android, iOS, and Web
-- 🏗️ Strong architecture foundation: **Clean Architecture, MVVM, scalable state management**
-- 🔌 Experienced in **REST APIs, Firebase, backend integration, and production releases**
-- ⚡ Focused on outcomes clients care about: **speed, reliability, maintainability, and time-to-market**
+- 🧠 **5+ years** building mobile and full-stack products from concept to production
+- 📱 Specialized in **Flutter** development for Android, iOS, and Web
+- 🏗️ Architecture-first approach with **Clean Architecture, MVVM, and scalable state management**
+- ⚡ Delivery focused on business outcomes: **speed, reliability, maintainability, and time-to-market**
 
 ---
 
 ## 🛠️ Freelance Services
 
-- Flutter app development (new app, feature development, refactoring)
+- Flutter app development (new builds, feature delivery, refactoring)
 - Full-stack MVP development (mobile + backend + database)
-- Firebase/REST API integration and backend connectivity
-- Performance tuning, code quality improvements, and architecture cleanup
-- Bug fixing, maintenance, and long-term product support
+- API and Firebase integration with backend connectivity
+- Performance optimization, architecture cleanup, and long-term maintenance
 
 ---
 
@@ -51,18 +49,20 @@
 
 | Project | Highlights | Tech | Lifecycle Log |
 |---|---|---|---|
-| [lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight lifecycle/event logging utility to improve observability and debugging | Flutter, Dart | 🚀 Active • Core utility • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Flifecycle_logger%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
-| [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready UI animation patterns that improve UX quality | Dart, Flutter | 🚀 Active • Maintained • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Fflutter_animated_widgets%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
-| [GridX](https://github.com/NJashwanth/GridX) | Recent Flutter implementation showcasing maintainable app structure | Dart, Flutter | 🧪 Iterating • Feature expansion • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2FGridX%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
+| [Lifecycle Logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight lifecycle and event logging utility that improves debugging and runtime observability | Flutter, Dart | 🚀 Active • Core utility • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Flifecycle_logger%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
+| [Flutter Animated Widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Production-ready animation patterns that elevate UI quality and interaction experience | Dart, Flutter | 🚀 Active • UI toolkit • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Fflutter_animated_widgets%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
+| [GridX](https://github.com/NJashwanth/GridX) | Modern Flutter app implementation focused on maintainable architecture and scalable feature delivery | Dart, Flutter | 🧪 Active • Feature expansion • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2FGridX%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
+| [Organize It](https://github.com/NJashwanth/organize_it) | End-to-end productivity app for managing tasks, notes, and daily workflows with a clean UX | Flutter, Dart | 🚀 Active • Client-facing app • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Forganize_it%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
+| [Organize It Backend](https://github.com/NJashwanth/organize_it_backend) | Scalable API layer handling auth, data persistence, and business logic for the Organize It ecosystem | Node.js, Express, MongoDB | 🛠️ Backend • API platform • ![Last Updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FNJashwanth%2Forganize_it_backend%2Fcommits%2Fmain&query=%24.commit.committer.date&label=Last%20Updated&style=flat) |
 
 ---
 
 ## 🤝 Why Clients Work With Me
 
-- Clear communication and consistent delivery updates
-- Clean, maintainable code that teams can scale
-- Practical approach focused on shipping, not over-engineering
-- Comfortable working independently or alongside existing teams
+- Clear communication with reliable delivery updates
+- Clean, maintainable codebases that scale with team growth
+- Practical execution focused on shipping value
+- Flexible collaboration: independent execution or team integration
 
 ---
 
@@ -84,20 +84,20 @@
 </table>
 
 <p align="center">
-	<img width="70%" src="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NJashwanth&theme=onedark&exclude_days=Fri" alt="GitHub Streak" /></a>
 </p>
 
 ---
 
 ## ✅ Currently Working On
 
-- Flutter app development and feature implementation
-- MVP delivery for product ideas
-- Performance improvements and bug fixes in existing apps
+- Flutter product development and feature delivery
+- MVP execution for early-stage product ideas
+- Performance and stability improvements for existing apps
 
 ---
 
-## 🤝 Let’s Connect
+## 📬 Let’s Connect
 
 - Email: [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com)
 - LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
@@ -105,4 +105,4 @@
 
 <p align="center"><b>📩 Open to freelance opportunities. Let’s build your next app.</b></p>
 
-<p align="center"><b>"I help turn product ideas into scalable, production-ready software."</b></p>
+<p align="center"><b>I help turn product ideas into scalable, production-ready software.</b></p>
