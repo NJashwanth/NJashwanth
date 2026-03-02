@@ -84,7 +84,7 @@
 </table>
 
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NJashwanth&theme=onedark&exclude_days=Fri" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NJashwanth&theme=onedark" alt="GitHub Streak" /></a>
 </p>
 
 ---
