@@ -92,9 +92,9 @@
 
 ## ✅ Currently Working On
 
-- Flutter product development and feature delivery
-- MVP execution for early-stage product ideas
-- Performance and stability improvements for existing apps
+- Building Flutter packages and VS Code extensions
+- Looking for open-source collaboration opportunities
+- Exploring something new every day
 
 ---
 
