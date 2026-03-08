@@ -100,9 +100,9 @@
 
 ## 📬 Let’s Connect
 
-- Email: [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com)
-- LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
-- GitHub: [@NJashwanth](https://github.com/NJashwanth)
+- 📧 Email: [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com)
+- 💼 LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
+- 🐙 GitHub: [@NJashwanth](https://github.com/NJashwanth)
 
 <p align="center"><b>📩 Open to freelance opportunities. Let’s build your next app.</b></p>
 
