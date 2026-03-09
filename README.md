@@ -5,6 +5,9 @@
 	<a href="https://github.com/NJashwanth">
 		<img src="https://img.shields.io/badge/GitHub-NJashwanth-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 	</a>
+	<a href="https://njashwanth.github.io/">
+		<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-ff6b35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+	</a>
 	<a href="https://www.linkedin.com/in/jashwanth-neela-software-engineer/">
 		<img src="https://img.shields.io/badge/LinkedIn-Jashwanth%20Neela-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 	</a>
@@ -101,6 +104,7 @@
 ## 📬 Let’s Connect
 
 - 📧 Email: [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com)
+- 🌐 Portfolio: [njashwanth.github.io](https://njashwanth.github.io/)
 - 💼 LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
 - 🐙 GitHub: [@NJashwanth](https://github.com/NJashwanth)
 
