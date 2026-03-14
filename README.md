@@ -88,7 +88,7 @@ I am a software engineer with 5+ years of experience delivering production-ready
 
 <p align="center">
 	<a href="https://git.io/streak-stats">
-		<img width="840" height="190" src="https://streak-stats.demolab.com?user=NJashwanth&theme=onedark" alt="GitHub Streak" />
+		<img width="840" height="190" src="https://streak-stats.demolab.com?user=NJashwanth&theme=onedark&cache_seconds=3600&v=20260314" alt="GitHub Streak" />
 	</a>
 </p>
 
