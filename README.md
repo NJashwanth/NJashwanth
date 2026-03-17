@@ -51,18 +51,37 @@ I am a software engineer with 5+ years of experience delivering production-ready
 
 ---
 
-## Selected Projects
+## Featured Work
 
-| Project | Value Delivered | Stack |
-|---|---|---|
-| [Flutter Mock Server](https://github.com/NJashwanth/flutter_mock_server) | Mock server utility for Flutter apps to simulate API responses during development and testing | Dart, Flutter |
-| [Lifecycle Logger](https://github.com/NJashwanth/lifecycle_logger) | Lightweight Flutter package for lifecycle and event logging to improve debugging and observability | Dart, Flutter |
-| [Log Sight](https://github.com/NJashwanth/log_sight) | VS Code extension with structured logging view and filtering for faster troubleshooting workflows | TypeScript, VS Code API |
-| [Flutter Animated Widgets](https://github.com/NJashwanth/flutter_animated_widgets) | Reusable animation components designed for polished, production-grade UI experiences | Dart, Flutter |
-| [GridX](https://github.com/NJashwanth/GridX) | Scalable Flutter implementation with clean structure for long-term feature growth | Dart, Flutter |
-| [Organize It](https://github.com/NJashwanth/organize_it) | Productivity app for tasks, notes, and workflow management with a practical UX | Dart, Flutter |
-| [Organize It Backend](https://github.com/NJashwanth/organize_it_backend) | Backend API platform for authentication, persistence, and business logic | Java, Spring Boot, MongoDB |
-| [Flutter Mock Server](https://github.com/NJashwanth/flutter_mock_server) | Mock server utility for Flutter apps to simulate API responses during development and testing | Dart, Flutter |
+### Developer Tooling
+
+- [Flutter Mock Server](https://github.com/NJashwanth/flutter_mock_server)  
+  Mock API responses for faster Flutter development and testing.  
+  `Dart` `Flutter`
+- [Lifecycle Logger](https://github.com/NJashwanth/lifecycle_logger)  
+  Lightweight lifecycle and event logging for better app observability.  
+  `Dart` `Flutter`
+- [Log Sight](https://github.com/NJashwanth/log_sight)  
+  VS Code extension for structured log inspection and faster debugging.  
+  `TypeScript` `VS Code API`
+
+### Flutter Products
+
+- [Flutter Animated Widgets](https://github.com/NJashwanth/flutter_animated_widgets)  
+  Reusable animation components for polished production UIs.  
+  `Dart` `Flutter`
+- [GridX](https://github.com/NJashwanth/GridX)  
+  Scalable Flutter architecture built for long-term feature growth.  
+  `Dart` `Flutter`
+- [Organize It](https://github.com/NJashwanth/organize_it)  
+  Productivity app for tasks, notes, and everyday workflow management.  
+  `Dart` `Flutter`
+
+### Backend Systems
+
+- [Organize It Backend](https://github.com/NJashwanth/organize_it_backend)  
+  Backend API handling authentication, persistence, and business logic.  
+  `Java` `Spring Boot` `MongoDB`
 
 ---
 
