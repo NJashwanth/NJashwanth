@@ -109,9 +109,6 @@ I am a software engineer with 5+ years of experience delivering production-ready
 	<img width="760" height="180" src="https://streak-stats.demolab.com?user=NJashwanth&hide_border=true&border_radius=18&background=0d1117&ring=ffb86c&fire=ff9e64&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&sideNums=58a6ff&currStreakNum=58a6ff" alt="GitHub streak" />
 </p>
 
-<p align="center">
-	<img width="760" src="https://github-profile-trophy.vercel.app/?username=NJashwanth&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</p>
 
 ---
 
