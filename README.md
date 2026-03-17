@@ -94,23 +94,23 @@ I am a software engineer with 5+ years of experience delivering production-ready
 
 ---
 
-## GitHub Insights
-
-<table align="center">
-	<tr>
-		<td>
-			<img width="410" height="190" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-		</td>
-		<td>
-			<img width="410" height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&theme=tokyonight&layout=compact&count_private=true&langs_count=8" alt="Top languages" />
-		</td>
-	</tr>
-</table>
+## GitHub Snapshot
 
 <p align="center">
-	<a href="https://git.io/streak-stats">
-		<img width="840" height="190" src="https://streak-stats.demolab.com?user=NJashwanth&theme=onedark&cache_seconds=3600&v=20260314" alt="GitHub Streak" />
-	</a>
+	Consistent open-source work across Flutter packages, developer tooling, and product-focused builds.
+</p>
+
+<p align="center">
+	<img width="420" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=18&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9&icon_color=58a6ff&ring_color=ffb86c" alt="GitHub stats" />
+	<img width="320" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&hide_border=true&border_radius=18&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+	<img width="760" height="180" src="https://streak-stats.demolab.com?user=NJashwanth&hide_border=true&border_radius=18&background=0d1117&ring=ffb86c&fire=ff9e64&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&sideNums=58a6ff&currStreakNum=58a6ff" alt="GitHub streak" />
+</p>
+
+<p align="center">
+	<img width="760" src="https://github-profile-trophy.vercel.app/?username=NJashwanth&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
