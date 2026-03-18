@@ -53,7 +53,7 @@ I am a software engineer with 5+ years of experience delivering production-ready
 
 ## Featured Work
 
-### Developer Tooling (Package/plugin)
+### Developer Tooling (Package/ Plugin)
 
 - [Flutter Mock Server](https://github.com/NJashwanth/flutter_mock_server)  
   Mock API responses for faster Flutter development and testing.  
