@@ -97,10 +97,6 @@ I am a software engineer with 5+ years of experience delivering production-ready
 ## GitHub Snapshot
 
 <p align="center">
-	Consistent open-source work across Flutter packages, developer tooling, and product-focused builds.
-</p>
-
-<p align="center">
 	<img width="420" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=18&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9&icon_color=58a6ff&ring_color=ffb86c" alt="GitHub stats" />
 	<img width="320" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&hide_border=true&border_radius=18&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9" alt="Top languages" />
 </p>
