@@ -1,5 +1,5 @@
 <h1 align="center">Jashwanth Neela</h1>
-<h3 align="center">Freelance Software Engineer | Sr Flutter & Full-Stack Developer</h3>
+<h3 align="center">Freelance Software Engineer | Senior Flutter & Full-Stack Developer</h3>
 
 <p align="center">
 	Building reliable mobile and web products with clean architecture, strong performance, and business-first execution.
