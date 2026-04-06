@@ -6,15 +6,23 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/NJashwanth">
-		<img src="https://img.shields.io/badge/GitHub-NJashwanth-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-	</a>
 	<a href="https://njashwanth.github.io/">
 		<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-ff6b35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 	</a>
-	<a href="https://www.linkedin.com/in/jashwanth-neela-software-engineer/">
-		<img src="https://img.shields.io/badge/LinkedIn-Jashwanth%20Neela-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+	<a href="https://github.com/NJashwanth">
+		<img src="https://img.shields.io/badge/GitHub-NJashwanth-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 	</a>
+	<a href="mailto:jashwanthn066@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Contact-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/jashwanth-neela-software-engineer/">LinkedIn</a> •
+	<a href="https://medium.com/@jashwanthneela">Medium</a>
+</p>
+
+<p align="center">
 	<img src="https://komarev.com/ghpvc/?username=NJashwanth&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
@@ -118,10 +126,16 @@ I am a software engineer with 5+ years of experience delivering production-ready
 
 ## Contact
 
+### Primary
+
 - Email: [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com)
 - Portfolio: [njashwanth.github.io](https://njashwanth.github.io/)
-- LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
+
+### Social
+
 - GitHub: [@NJashwanth](https://github.com/NJashwanth)
+- LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
+- Medium: [@jashwanthneela](https://medium.com/@jashwanthneela)
 
 <p align="center"><strong>Open to freelance opportunities and long-term product collaborations.</strong></p>
 <p align="center"><strong>Turning product ideas into scalable, production-ready software.</strong></p>
