@@ -63,6 +63,9 @@ I am a software engineer with 5+ years of experience delivering production-ready
 
 ### Developer Tooling (Package/ Plugin)
 
+- [Feature Flag Audit](https://pub.dev/packages/feature_flag_audit)  
+  CLI package that scans Flutter code for feature flag usage, detects Firebase Remote Config keys, and compares code keys with Firebase for audit visibility.  
+  `Dart` `Flutter` `CLI`
 - [Flutter Mock Server](https://github.com/NJashwanth/flutter_mock_server)  
   Mock API responses for faster Flutter development and testing.  
   `Dart` `Flutter`
