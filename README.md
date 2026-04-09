@@ -121,9 +121,9 @@ I am a software engineer with 5+ years of experience delivering production-ready
 
 ## Current Focus
 
-- Building Flutter packages and developer tooling
-- Creating production-ready apps for clients and startups
-- Contributing to open-source projects with practical value
+- Developing Flutter packages and developer tools.
+- Building production-ready applications for clients and startups.
+- Contributing to open-source projects with practical value.
 
 ---
 
