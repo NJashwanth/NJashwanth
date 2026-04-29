@@ -27,7 +27,7 @@ Available for freelance work and long-term product collaborations. → [jneela.d
 | Area | Details |
 |---|---|
 | **Mobile & Cross-Platform** | Flutter applications for Android, iOS, and Web from the ground up |
-| **Full-Stack Products** | End-to-end MVP delivery — mobile, backend, database, and integrations |
+| **Full-Stack Products** | End-to-end MVP delivery-mobile, backend, database, and integrations |
 | **Developer Tooling** | CLI tools, VS Code extensions, and Flutter packages published to pub.dev |
 | **Architecture & Performance** | Refactoring, optimization, and modernizing existing codebases |
 
