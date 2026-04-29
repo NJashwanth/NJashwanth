@@ -1,144 +1,114 @@
-<h1 align="center">Jashwanth Neela</h1>
-<h3 align="center">Freelance Software Engineer | Senior Flutter & Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-	Building reliable mobile and web products with clean architecture, strong performance, and business-first execution.
-</p>
+# Jashwanth Neela
 
-<p align="center">
-	<a href="https://njashwanth.github.io/">
-		<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-ff6b35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-	</a>
-	<a href="https://github.com/NJashwanth">
-		<img src="https://img.shields.io/badge/GitHub-NJashwanth-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-	</a>
-	<a href="mailto:jashwanthn066@gmail.com">
-		<img src="https://img.shields.io/badge/Email-Contact-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-	</a>
-</p>
+**Software Engineer · 5+ Years · Flutter & Full-Stack**
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/jashwanth-neela-software-engineer/">LinkedIn</a> •
-	<a href="https://medium.com/@jashwanthneela">Medium</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/jneela.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://jneela.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jashwanthneela)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jashwanthn066@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NJashwanth)
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=NJashwanth&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=NJashwanth&style=flat-square&color=0e75b6&label=profile+views)
 
-<p align="center"><strong>Available for freelance projects: Flutter apps, MVPs, API integrations, and performance optimization.</strong></p>
+</div>
 
 ---
 
-## Executive Summary
+I build cross-platform products that ship — from architecture to release. My work spans Flutter applications, backend APIs, developer tooling, and open-source packages used in production. I value clean design, predictable delivery, and code that teams can maintain without friction.
 
-I am a software engineer with 5+ years of experience delivering production-ready applications across Flutter and full-stack ecosystems. I help teams move from product idea to scalable implementation with a focus on architecture quality, delivery speed, and maintainability.
-
-- End-to-end product development from concept to release
-- Cross-platform Flutter apps for Android, iOS, and Web
-- Backend and API integration for complete MVP delivery
-- Refactoring and performance tuning for existing products
+Available for freelance work and long-term product collaborations. → [jneela.dev](https://jneela.dev)
 
 ---
 
-## Services
+## What I Do
 
-- Flutter application development and feature delivery
-- Full-stack MVP builds (mobile, backend, and database)
-- API, Firebase, and third-party integration
-- Performance optimization and architecture modernization
-- Ongoing support and long-term product maintenance
-
----
-
-## Technology Stack
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,ts,python,react,nextjs,nodejs,spring,firebase,mongodb,mysql,postgres,docker,git,github,vscode,androidstudio" />
-</p>
+| Area | Details |
+|---|---|
+| **Mobile & Cross-Platform** | Flutter applications for Android, iOS, and Web from the ground up |
+| **Full-Stack Products** | End-to-end MVP delivery — mobile, backend, database, and integrations |
+| **Developer Tooling** | CLI tools, VS Code extensions, and Flutter packages published to pub.dev |
+| **Architecture & Performance** | Refactoring, optimization, and modernizing existing codebases |
 
 ---
 
-## Featured Work
+## Technology
 
-### Developer Tooling (Package/ Plugin)
+<div align="center">
 
-- [Feature Flag Audit](https://pub.dev/packages/feature_flag_audit)  
-  CLI package that scans Flutter code for feature flag usage, detects Firebase Remote Config keys, and compares code keys with Firebase for audit visibility.  
-  `Dart` `Flutter` `CLI`
-- [Flutter Mock Server](https://github.com/NJashwanth/flutter_mock_server)  
-  Mock API responses for faster Flutter development and testing.  
-  `Dart` `Flutter`
-- [Lifecycle Logger](https://github.com/NJashwanth/lifecycle_logger)  
-  Lightweight lifecycle and event logging for better app observability.  
-  `Dart` `Flutter`
-- [Log Sight](https://github.com/NJashwanth/log_sight)  
-  VS Code extension for structured log inspection and faster debugging.  
-  `TypeScript` `VS Code API`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Flutter Products
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-- [Flutter Animated Widgets](https://github.com/NJashwanth/flutter_animated_widgets)  
-  Reusable animation components for polished production UIs.  
-  `Dart` `Flutter`
-- [GridX](https://github.com/NJashwanth/GridX)  
-  Scalable Flutter architecture built for long-term feature growth.  
-  `Dart` `Flutter`
-- [Organize It](https://github.com/NJashwanth/organize_it)  
-  Productivity app for tasks, notes, and everyday workflow management.  
-  `Dart` `Flutter`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Backend Systems
-
-- [Organize It Backend](https://github.com/NJashwanth/organize_it_backend)  
-  Backend API handling authentication, persistence, and business logic.  
-  `Java` `Spring Boot` `MongoDB`
+</div>
 
 ---
 
-## Why Teams Work With Me
+## Open Source
 
-- Strong communication and predictable delivery
-- Clean, maintainable code that scales with product needs
-- Fast iteration without compromising engineering quality
-- Flexible collaboration with startups, founders, and teams
+### Packages & Tooling
+
+**[feature_flag_audit](https://pub.dev/packages/feature_flag_audit)**  
+CLI tool that scans Flutter codebases for feature flag usage, detects Firebase Remote Config keys, and audits key consistency between code and Firebase.  
+`Dart` `Flutter` `CLI` · pub.dev
+
+**[flutter_mock_server](https://github.com/NJashwanth/flutter_mock_server)**  
+Mock API responses locally during Flutter development and testing without touching a live backend.  
+`Dart` `Flutter`
+
+**[lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger)**  
+Lightweight widget lifecycle and event logging for improved Flutter app observability.  
+`Dart` `Flutter`
+
+**[log_sight](https://github.com/NJashwanth/log_sight)**  
+VS Code extension for structured log inspection and accelerated debugging workflows.  
+`TypeScript` `VS Code API`
+
+### Applications
+
+**[flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets)**  
+Production-ready animation components built for reuse across Flutter UIs.
+
+**[GridX](https://github.com/NJashwanth/GridX)**  
+Scalable Flutter app architecture template designed for long-term feature growth.
+
+**[organize_it](https://github.com/NJashwanth/organize_it)** + **[organize_it_backend](https://github.com/NJashwanth/organize_it_backend)**  
+Full-stack productivity application — Flutter frontend with a Java / Spring Boot / MongoDB backend.
 
 ---
 
-## GitHub Snapshot
+## GitHub
 
-<p align="center">
-	<img width="420" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=18&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9&icon_color=58a6ff&ring_color=ffb86c" alt="GitHub stats" />
-	<img width="320" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&hide_border=true&border_radius=18&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9" alt="Top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-	<img width="760" height="180" src="https://streak-stats.demolab.com?user=NJashwanth&hide_border=true&border_radius=18&background=0d1117&ring=ffb86c&fire=ff9e64&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&sideNums=58a6ff&currStreakNum=58a6ff" alt="GitHub streak" />
-</p>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
 
+<img width="680" src="https://streak-stats.demolab.com?user=NJashwanth&hide_border=true&background=00000000&ring=58a6ff&fire=ff9e64&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&sideNums=58a6ff&currStreakNum=58a6ff" />
 
----
-
-## Current Focus
-
-- Developing Flutter packages and developer tools.
-- Building production-ready applications for clients and startups.
-- Contributing to open-source projects with practical value.
+</div>
 
 ---
 
-## Contact
+<div align="center">
 
-### Primary
+[jneela.dev](https://jneela.dev) · [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
 
-- Email: [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com)
-- Portfolio: [njashwanth.github.io](https://njashwanth.github.io/)
-
-### Social
-
-- GitHub: [@NJashwanth](https://github.com/NJashwanth)
-- LinkedIn: [jashwanth-neela-software-engineer](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
-- Medium: [@jashwanthneela](https://medium.com/@jashwanthneela)
-
-<p align="center"><strong>Open to freelance opportunities and long-term product collaborations.</strong></p>
-<p align="center"><strong>Turning product ideas into scalable, production-ready software.</strong></p>
+</div>
