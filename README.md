@@ -98,10 +98,10 @@ Full-stack productivity application — Flutter frontend with a Java / Spring Bo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=10" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" />
 
-<img width="680" src="https://streak-stats.demolab.com?user=NJashwanth&hide_border=true&background=00000000&ring=58a6ff&fire=ff9e64&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&sideNums=58a6ff&currStreakNum=58a6ff" />
+<img width="680" src="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=false&border_radius=10" />
 
 </div>
 
