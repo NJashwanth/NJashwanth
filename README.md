@@ -71,15 +71,15 @@ CLI tool that scans Flutter codebases for feature flag usage, detects Firebase R
 
 **[flutter_mock_server](https://github.com/NJashwanth/flutter_mock_server)**  
 Mock API responses locally during Flutter development and testing without touching a live backend.  
-`Dart` `Flutter`
+`Dart` `Flutter` · pub.dev
 
 **[lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger)**  
 Lightweight widget lifecycle and event logging for improved Flutter app observability.  
-`Dart` `Flutter`
+`Dart` `Flutter` · pub.dev
 
 **[log_sight](https://github.com/NJashwanth/log_sight)**  
 VS Code extension for structured log inspection and accelerated debugging workflows.  
-`TypeScript` `VS Code API`
+`TypeScript` `VS Code API` · pub.dev
 
 ### Applications
 
