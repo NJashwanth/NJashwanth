@@ -79,7 +79,7 @@ Lightweight widget lifecycle and event logging for improved Flutter app observab
 
 **[log_sight](https://github.com/NJashwanth/log_sight)**  
 VS Code extension for structured log inspection and accelerated debugging workflows.  
-`TypeScript` `VS Code API` · pub.dev
+`TypeScript` `VS Code API` · vs code
 
 ### Applications
 
