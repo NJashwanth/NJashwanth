@@ -69,6 +69,10 @@ Available for freelance work and long-term product collaborations. → [jneela.d
 CLI tool that scans Flutter codebases for feature flag usage, detects Firebase Remote Config keys, and audits key consistency between code and Firebase.  
 `Dart` `Flutter` `CLI` · pub.dev
 
+**[genui_mock](https://pub.dev/packages/genui_mock)**  
+Record, save, and replay GenUI streaming sessions as deterministic, git-diffable JSON fixtures — test Catalog widgets against real recorded model output with zero network calls.  
+`Dart` `Flutter` `GenUI` `Testing` · pub.dev
+
 **[flutter_mock_server](https://github.com/NJashwanth/flutter_mock_server)**  
 Mock API responses locally during Flutter development and testing without touching a live backend.  
 `Dart` `Flutter` · pub.dev
