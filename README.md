@@ -27,7 +27,7 @@ Available for freelance work and long-term product collaborations. → [jneela.d
 | Area | Details |
 |---|---|
 | **Mobile & Cross-Platform** | Flutter applications for Android, iOS, and Web from the ground up |
-| **Full-Stack Products** | End-to-end MVP delivery-mobile, backend, database, and integrations |
+| **Full-Stack Products** | End-to-end MVP delivery — mobile, backend, database, and integrations |
 | **Developer Tooling** | CLI tools, VS Code extensions, and Flutter packages published to pub.dev |
 | **Architecture & Performance** | Refactoring, optimization, and modernizing existing codebases |
 
@@ -65,25 +65,25 @@ Available for freelance work and long-term product collaborations. → [jneela.d
 
 ### Packages & Tooling
 
-**[feature_flag_audit](https://pub.dev/packages/feature_flag_audit)**  
+**[feature_flag_audit](https://pub.dev/packages/feature_flag_audit)** [![Pub Version](https://img.shields.io/pub/v/feature_flag_audit?style=flat-square&color=0175C2)](https://pub.dev/packages/feature_flag_audit)  
 CLI tool that scans Flutter codebases for feature flag usage, detects Firebase Remote Config keys, and audits key consistency between code and Firebase.  
-`Dart` `Flutter` `CLI` · pub.dev
+`Dart` `Flutter` `CLI`
 
-**[genui_mock](https://pub.dev/packages/genui_mock)**  
+**[genui_mock](https://pub.dev/packages/genui_mock)** [![Pub Version](https://img.shields.io/pub/v/genui_mock?style=flat-square&color=0175C2)](https://pub.dev/packages/genui_mock)  
 Record, save, and replay GenUI streaming sessions as deterministic, git-diffable JSON fixtures — test Catalog widgets against real recorded model output with zero network calls.  
-`Dart` `Flutter` `GenUI` `Testing` · pub.dev
+`Dart` `Flutter` `GenUI` `Testing`
 
-**[flutter_mock_server](https://github.com/NJashwanth/flutter_mock_server)**  
+**[flutter_mock_server](https://pub.dev/packages/flutter_mock_server)** [![Pub Version](https://img.shields.io/pub/v/flutter_mock_server?style=flat-square&color=0175C2)](https://pub.dev/packages/flutter_mock_server)  
 Mock API responses locally during Flutter development and testing without touching a live backend.  
-`Dart` `Flutter` · pub.dev
+`Dart` `Flutter`
 
-**[lifecycle_logger](https://github.com/NJashwanth/lifecycle_logger)**  
+**[lifecycle_logger](https://pub.dev/packages/lifecycle_logger)** [![Pub Version](https://img.shields.io/pub/v/lifecycle_logger?style=flat-square&color=0175C2)](https://pub.dev/packages/lifecycle_logger)  
 Lightweight widget lifecycle and event logging for improved Flutter app observability.  
-`Dart` `Flutter` · pub.dev
+`Dart` `Flutter`
 
 **[log_sight](https://github.com/NJashwanth/log_sight)**  
 VS Code extension for structured log inspection and accelerated debugging workflows.  
-`TypeScript` `VS Code API` · vs code
+`TypeScript` `VS Code API`
 
 ### Applications
 
@@ -102,10 +102,19 @@ Full-stack productivity application — Flutter frontend with a Java / Spring Bo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=10" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=10">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=10" alt="GitHub stats for NJashwanth" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&hide_border=false&border_radius=10" alt="Most used languages" />
+</picture>
 
-<img width="680" src="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=false&border_radius=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=false&border_radius=10">
+  <img width="680" src="https://streak-stats.demolab.com?user=NJashwanth&hide_border=false&border_radius=10" alt="GitHub contribution streak" />
+</picture>
 
 </div>
 
