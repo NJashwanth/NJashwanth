@@ -18,7 +18,7 @@
 
 I build cross-platform products that ship — from architecture to release. My work spans Flutter applications, backend APIs, developer tooling, and open-source packages used in production. I value clean design, predictable delivery, and code that teams can maintain without friction.
 
-Available for freelance work and long-term product collaborations. → [jneela.dev](https://jneela.dev)
+Available for freelance work and long-term product collaborations. → [jneela.dev](https://jneela.dev).
 
 ---
 
