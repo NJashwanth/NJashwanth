@@ -20,7 +20,7 @@ I build cross-platform products that ship — from architecture to release. My w
 
 Available for freelance work and long-term product collaborations. → [jneela.dev](https://jneela.dev)
 
----
+----
 
 ## What I Do
 
