@@ -98,28 +98,6 @@ Full-stack productivity application — Flutter frontend with a Java / Spring Bo
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_radius=10">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NJashwanth&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=10" alt="GitHub stats for NJashwanth" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NJashwanth&layout=compact&count_private=true&langs_count=8&hide_border=false&border_radius=10" alt="Most used languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NJashwanth&theme=tokyonight&hide_border=false&border_radius=10">
-  <img width="680" src="https://streak-stats.demolab.com?user=NJashwanth&hide_border=false&border_radius=10" alt="GitHub contribution streak" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 [jneela.dev](https://jneela.dev) · [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
