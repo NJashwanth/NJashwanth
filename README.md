@@ -1,105 +1,65 @@
-<div align="center">
-
 # Jashwanth Neela
 
-**Software Engineer · 5+ Years · Flutter & Full-Stack**
+**Flutter · Dart · Full-Stack Development · Developer Tooling**
 
-[![Portfolio](https://img.shields.io/badge/jneela.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://jneela.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jashwanthneela)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jashwanthn066@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NJashwanth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jneela.dev-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jneela.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jashwanth_Neela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
+[![Medium](https://img.shields.io/badge/Medium-jashwanthneela-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jashwanthneela)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashwanthn066@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NJashwanth&style=flat-square&color=0e75b6&label=profile+views)
-
-</div>
+I build cross-platform applications, backend services, developer tools, and open-source packages. My work spans Flutter and Dart, TypeScript, Python, Java, and modern web technologies.
 
 ---
 
-I build cross-platform products that ship — from architecture to release. My work spans Flutter applications, backend APIs, developer tooling, and open-source packages used in production. I value clean design, predictable delivery, and code that teams can maintain without friction.
+## What I'm Building
 
-Available for freelance work and long-term product collaborations. → [jneela.dev](https://jneela.dev)
+- **AI experiments:** [commit-to-curiosity](https://github.com/NJashwanth/commit-to-curiosity) — one small, useful project each day while learning AI, MCP, and LLM technologies.
+- **Flutter packages:** reusable tools for widget effects, lifecycle logging, feature flag auditing, mock servers, and deterministic UI testing.
+- **Cross-platform products:** applications and full-stack systems built for Android, iOS, web, and backend environments.
 
-----
+---
 
-## What I Do
+## Featured Packages
 
-| Area | Details |
+| Package | What it does |
 |---|---|
-| **Mobile & Cross-Platform** | Flutter applications for Android, iOS, and Web from the ground up |
-| **Full-Stack Products** | End-to-end MVP delivery — mobile, backend, database, and integrations |
-| **Developer Tooling** | CLI tools, VS Code extensions, and Flutter packages published to pub.dev |
-| **Architecture & Performance** | Refactoring, optimization, and modernizing existing codebases |
+| [broken_glass](https://pub.dev/packages/broken_glass) | Break Flutter widgets into animated glass shards and restore them with a custom painter. |
+| [lifecycle_logger](https://pub.dev/packages/lifecycle_logger) | Debug app and widget lifecycle events with structured logs, callbacks, streams, and custom sinks. |
+| [flutter_mock_server](https://pub.dev/packages/flutter_mock_server) | Mock HTTP APIs locally for Flutter development and testing. |
+| [feature_flag_audit](https://pub.dev/packages/feature_flag_audit) | Audit feature flag usage and Firebase Remote Config keys across Dart and Flutter projects. |
+| [genui_mock](https://pub.dev/packages/genui_mock) | Record and replay GenUI streaming sessions for deterministic, offline widget tests. |
 
 ---
 
-## Technology
+## Featured Projects
 
-<div align="center">
+- [chess_ai](https://github.com/NJashwanth/chess_ai) — a chess application exploring AI and game logic.
+- [cardza](https://github.com/NJashwanth/cardza) — a cross-platform Flutter product.
+- [organize_it](https://github.com/NJashwanth/organize_it) with [organize_it_backend](https://github.com/NJashwanth/organize_it_backend) — a full-stack productivity application.
+- [njashwanth.github.io](https://github.com/NJashwanth/njashwanth.github.io) — my personal portfolio website.
+- [flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets) — reusable Flutter animation components.
+
+---
+
+## Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-## Open Source
-
-### Packages & Tooling
-
-**[feature_flag_audit](https://pub.dev/packages/feature_flag_audit)** [![Pub Version](https://img.shields.io/pub/v/feature_flag_audit?style=flat-square&color=0175C2)](https://pub.dev/packages/feature_flag_audit)  
-CLI tool that scans Flutter codebases for feature flag usage, detects Firebase Remote Config keys, and audits key consistency between code and Firebase.  
-`Dart` `Flutter` `CLI`
-
-**[genui_mock](https://pub.dev/packages/genui_mock)** [![Pub Version](https://img.shields.io/pub/v/genui_mock?style=flat-square&color=0175C2)](https://pub.dev/packages/genui_mock)  
-Record, save, and replay GenUI streaming sessions as deterministic, git-diffable JSON fixtures — test Catalog widgets against real recorded model output with zero network calls.  
-`Dart` `Flutter` `GenUI` `Testing`
-
-**[flutter_mock_server](https://pub.dev/packages/flutter_mock_server)** [![Pub Version](https://img.shields.io/pub/v/flutter_mock_server?style=flat-square&color=0175C2)](https://pub.dev/packages/flutter_mock_server)  
-Mock API responses locally during Flutter development and testing without touching a live backend.  
-`Dart` `Flutter`
-
-**[lifecycle_logger](https://pub.dev/packages/lifecycle_logger)** [![Pub Version](https://img.shields.io/pub/v/lifecycle_logger?style=flat-square&color=0175C2)](https://pub.dev/packages/lifecycle_logger)  
-Lightweight widget lifecycle and event logging for improved Flutter app observability.  
-`Dart` `Flutter`
-
-**[log_sight](https://github.com/NJashwanth/log_sight)**  
-VS Code extension for structured log inspection and accelerated debugging workflows.  
-`TypeScript` `VS Code API`
-
-### Applications
-
-**[flutter_animated_widgets](https://github.com/NJashwanth/flutter_animated_widgets)**  
-Production-ready animation components built for reuse across Flutter UIs.
-
-**[GridX](https://github.com/NJashwanth/GridX)**  
-Scalable Flutter app architecture template designed for long-term feature growth.
-
-**[organize_it](https://github.com/NJashwanth/organize_it)** + **[organize_it_backend](https://github.com/NJashwanth/organize_it_backend)**  
-Full-stack productivity application — Flutter frontend with a Java / Spring Boot / MongoDB backend.
 
 ---
 
 <div align="center">
 
-[jneela.dev](https://jneela.dev) · [jashwanthn066@gmail.com](mailto:jashwanthn066@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jashwanth-neela-software-engineer/)
+**Open to interesting engineering projects, collaborations, and conversations.**
+
+[Portfolio](https://jneela.dev) · [LinkedIn](https://www.linkedin.com/in/jashwanth-neela-software-engineer/) · [Email](mailto:jashwanthn066@gmail.com)
 
 </div>
